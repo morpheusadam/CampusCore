@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🎓 Iranian University — Laravel University Management System
-
+# 🎓 Campus Core — Laravel University Management System
 ### A comprehensive **university / college management system** built with **Laravel 10** — manage students, professors, colleges, courses, classes, terms, schedules, attendance, and roles, with Jalali (Persian) calendar support.
 
 <p>
