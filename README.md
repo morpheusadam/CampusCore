@@ -5,11 +5,11 @@
 ### A comprehensive **university / college management system** built with **Laravel 10** — manage students, professors, colleges, courses, classes, terms, schedules, attendance, and roles, with Jalali (Persian) calendar support.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/iranian-univercity?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/iranian-univercity?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/iranian-univercity?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/iranian-univercity?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/iranian-univercity?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/CampusCore?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/CampusCore?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/CampusCore?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/CampusCore?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/CampusCore?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -82,7 +82,7 @@ It's a solid foundation for **developers and institutions** that need a customiz
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/morpheusadam/iranian-univercity.git
+git clone https://github.com/morpheusadam/CampusCore.git
 cd iranian-univercity
 
 # 2. Install dependencies
@@ -131,7 +131,7 @@ iranian-univercity/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/iranian-univercity/issues) or submit a pull request with new features, fixes, or improvements.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/CampusCore/issues) or submit a pull request with new features, fixes, or improvements.
 
 ## 📜 License
 
